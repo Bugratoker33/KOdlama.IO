@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\bin\Debug\net7.0\Methotlarr.exe
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\bin\Debug\net7.0\Methotlarr.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\bin\Debug\net7.0\Methotlarr.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\bin\Debug\net7.0\Methotlarr.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\bin\Debug\net7.0\Methotlarr.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\refint\Methotlarr.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\Methotlarr.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Methotlarr\obj\Debug\net7.0\ref\Methotlarr.dll

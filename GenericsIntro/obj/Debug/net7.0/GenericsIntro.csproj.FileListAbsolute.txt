@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\bin\Debug\net7.0\GenericsIntro.exe
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\bin\Debug\net7.0\GenericsIntro.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\bin\Debug\net7.0\GenericsIntro.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\bin\Debug\net7.0\GenericsIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\bin\Debug\net7.0\GenericsIntro.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\refint\GenericsIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\GenericsIntro.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\GenericsIntro\obj\Debug\net7.0\ref\GenericsIntro.dll

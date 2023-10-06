@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\bin\Debug\net7.0\Donguler.exe
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\bin\Debug\net7.0\Donguler.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\bin\Debug\net7.0\Donguler.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\bin\Debug\net7.0\Donguler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\bin\Debug\net7.0\Donguler.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\refint\Donguler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\Donguler.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Donguler\obj\Debug\net7.0\ref\Donguler.dll

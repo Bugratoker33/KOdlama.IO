@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\bin\Debug\net7.0\DegerVeReferansTıpler.exe
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\bin\Debug\net7.0\DegerVeReferansTıpler.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\bin\Debug\net7.0\DegerVeReferansTıpler.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\bin\Debug\net7.0\DegerVeReferansTıpler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\bin\Debug\net7.0\DegerVeReferansTıpler.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\refint\DegerVeReferansTıpler.dll
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\DegerVeReferansTıpler.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\DegerVeReferansTıpler\obj\Debug\net7.0\ref\DegerVeReferansTıpler.dll

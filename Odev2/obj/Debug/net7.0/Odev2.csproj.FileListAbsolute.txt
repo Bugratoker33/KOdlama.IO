@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\bin\Debug\net7.0\Odev2.exe
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\bin\Debug\net7.0\Odev2.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\bin\Debug\net7.0\Odev2.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\bin\Debug\net7.0\Odev2.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\bin\Debug\net7.0\Odev2.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\refint\Odev2.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\Odev2.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Odev2\obj\Debug\net7.0\ref\Odev2.dll

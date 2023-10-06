@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\bin\Debug\net7.0\InterfaceAnstractDemo.exe
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\bin\Debug\net7.0\InterfaceAnstractDemo.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\bin\Debug\net7.0\InterfaceAnstractDemo.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\bin\Debug\net7.0\InterfaceAnstractDemo.dll
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\bin\Debug\net7.0\InterfaceAnstractDemo.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.dll
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\refint\InterfaceAnstractDemo.dll
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\InterfaceAnstractDemo.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\InterfaceAnstractDemo\obj\Debug\net7.0\ref\InterfaceAnstractDemo.dll

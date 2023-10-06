@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\bin\Debug\net7.0\Koleksıyonlar.exe
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\bin\Debug\net7.0\Koleksıyonlar.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\bin\Debug\net7.0\Koleksıyonlar.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\bin\Debug\net7.0\Koleksıyonlar.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\bin\Debug\net7.0\Koleksıyonlar.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\refint\Koleksıyonlar.dll
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\Koleksıyonlar.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\Koleksıyonlar\obj\Debug\net7.0\ref\Koleksıyonlar.dll

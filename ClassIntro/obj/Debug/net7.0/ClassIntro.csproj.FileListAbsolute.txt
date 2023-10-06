@@ -1,0 +1,15 @@
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\bin\Debug\net7.0\ClassIntro.exe
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\bin\Debug\net7.0\ClassIntro.deps.json
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\bin\Debug\net7.0\ClassIntro.runtimeconfig.json
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\bin\Debug\net7.0\ClassIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\bin\Debug\net7.0\ClassIntro.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\refint\ClassIntro.dll
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.pdb
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ClassIntro.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\engin demiroğ\ClassIntro\obj\Debug\net7.0\ref\ClassIntro.dll
